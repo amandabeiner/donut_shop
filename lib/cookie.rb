@@ -1,0 +1,4 @@
+class Cookie
+
+
+end
